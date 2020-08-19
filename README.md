@@ -1,4 +1,4 @@
-# solluti
+# Solluti Gallery
 
 ## Build Setup
 
